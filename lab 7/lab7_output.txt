@@ -1,0 +1,38 @@
+Script started on 2023-11-01 18:24:41-04:00 [TERM="xterm" TTY="/dev/pts/7" COLUMNS="157" LINES="49"]
+[?2004h]0;tur26337@cis-lclient15: ~/lab7tur26337@cis-lclient15:~/lab7$ ./a.out
+[?2004lLab Number 7. 
+metadata 
+This Lab will print out the random values:  
+The coders name is Colden Jeanmonod 
+Main Array: 2 
+Main Array: -1 
+Main Array: 0 
+Main Array: 1 
+Main Array: 1 
+Main Array: -3 
+Main Array: 3 
+Main Array: -4 
+Main Array: 11 
+Main Array: 11 
+[?2004h]0;tur26337@cis-lclient15: ~/lab7tur26337@cis-lclient15:~/lab7$ end script
+[?2004lCommand 'end' not found, did you mean:
+  command 'gnd' from snap gnd (master)
+  command 'bnd' from deb bnd (5.0.1-3)
+  command 'ent' from deb ent (1.2debian-3)
+  command 'and' from deb and (1.2.2-4.2)
+  command 'emd' from deb emd (1.0.1-2)
+  command 'send' from deb mailutils-mh (1:3.14-1)
+  command 'send' from deb mmh (0.4-4)
+  command 'send' from deb nmh (1.7.1-11)
+  command 'ed' from deb ed (1.18-1)
+  command 'nd' from deb nd (0.8.2-8build1)
+  command 'snd' from deb snd-gui-jack (22.1-1)
+  command 'snd' from deb snd-gui-pulse (22.1-1)
+  command 'snd' from deb snd-nox (22.1-1)
+  command 'eid' from deb id-utils (4.6.28-20200521ss15dab)
+  command 'env' from deb coreutils (8.32-4.1ubuntu1)
+See 'snap info <snapname>' for additional versions.
+[?2004h]0;tur26337@cis-lclient15: ~/lab7tur26337@cis-lclient15:~/lab7$ exit
+[?2004lexit
+
+Script done on 2023-11-01 18:25:04-04:00 [COMMAND_EXIT_CODE="127"]
